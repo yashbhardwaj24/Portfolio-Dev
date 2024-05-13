@@ -49,7 +49,7 @@ const HomeScreen = () => {
             <div className='blockDivHome'>
               <div className='numberHomePaga'>2+</div>
               <div className='expierenceDetail'>Experience</div>
-              
+                
             </div>
           </div>
         </div>
